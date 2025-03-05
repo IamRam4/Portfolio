@@ -12,3 +12,4 @@ Basic website for showcasing projects
 - [ ] SLAM implementation with CUDA using Research Paper
 - [ ] Big Data Technologies
 - [ ] GSoC
+- [ ] Project (Daily posting)
